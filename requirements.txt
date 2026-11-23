@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-pinecone
+pinecone
+langgraph
+langchain-groq
+fastembed
+ddgs
+python-dotenv
+pypdf
+docx2txt
+streamlit
